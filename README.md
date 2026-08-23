@@ -520,16 +520,7 @@ DENSENET-121/
 
 ---
 
-# ⚠️ Limitations
 
-- The reported performance is based on the validation evaluation included in the project.
-- An independent external clinical test set is not included in this repository.
-- Validation accuracy should not be interpreted as clinical diagnostic accuracy.
-- Grad-CAM provides an explainability visualization; it does not prove that a highlighted region is medically causal.
-- The API is intended as a model inference service rather than a production clinical system.
-
-
----
 
 ## ⭐ Project Workflow
 
