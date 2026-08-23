@@ -528,13 +528,6 @@ DENSENET-121/
 - Grad-CAM provides an explainability visualization; it does not prove that a highlighted region is medically causal.
 - The API is intended as a model inference service rather than a production clinical system.
 
----
-
-# 📌 Disclaimer
-
-This project is intended for **educational and research purposes only**.
-
-The predictions produced by this model should **not** be used for medical diagnosis, treatment decisions, or other clinical decisions.
 
 ---
 
